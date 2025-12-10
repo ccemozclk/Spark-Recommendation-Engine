@@ -4,6 +4,12 @@
 ![PySpark](https://img.shields.io/badge/Apache%20Spark-PySpark-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ALS%20%26%20KMeans-green)
 
+<p align="center">
+  <img src="images/project_dashboard.png" alt="Streamlit Dashboard Screenshot" width="800"/>
+  <br>
+  <i>Customer Analytics and Product Recommendation Interface created with Streamlit.</i>
+</p>
+
 ## 📖 Project Overview
 
 This project is an end-to-end data science implementation that leverages **Big Data** technologies to analyze large-scale retail datasets. The primary goal is to build a **Personalized Recommendation Engine** and perform **Customer Segmentation** to enhance marketing strategies and user experience.
