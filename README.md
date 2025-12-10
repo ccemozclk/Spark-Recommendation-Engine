@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PySpark](https://img.shields.io/badge/Apache%20Spark-PySpark-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ALS%20%26%20KMeans-green)
+![Deployment](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 <p align="center">
   <img src="images/Example.png" alt="Streamlit Dashboard Screenshot" width="800"/>
@@ -26,7 +27,7 @@ In the competitive retail landscape, delivering the right product to the right c
 
 * **Platform:** Google Colab (Spark Environment)
 * **Languages:** Python (PySpark, Pandas)
-* **Libraries:** `pyspark.sql`, `pyspark.ml`
+* **Libraries:** `pyspark.sql`, `pyspark.ml`,`streamlit`
 * **Algorithms:**
     * **K-Means Clustering:** For behavioral customer segmentation.
     * **ALS (Alternating Least Squares):** For collaborative filtering-based product recommendations.
