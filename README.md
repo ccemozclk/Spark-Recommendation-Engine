@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ALS%20%26%20KMeans-green)
 
 <p align="center">
-  <img src="images/project_dashboard.png" alt="Streamlit Dashboard Screenshot" width="800"/>
+  <img src="images/Example.png" alt="Streamlit Dashboard Screenshot" width="800"/>
   <br>
   <i>Customer Analytics and Product Recommendation Interface created with Streamlit.</i>
 </p>
